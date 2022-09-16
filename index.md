@@ -4,6 +4,7 @@
 
 - Fernando Bellas Permuy
 - fernando.bellas@udc.es
+- Teams
 - Despacho 0.04
 - [Tutorías](https://www.udc.es/gl/centros_departamentos_servizos/centros/titorias/?codigo=614)
 
@@ -17,8 +18,8 @@
   - Trabajo Fin de Grado: introducción a la normativa.
   - ¿Otros?
 
-- Enlaces importantes en relación al TFG:
 
-  - [Moodle](https://campusvirtual.udc.gal/course/view.php?id=18978).
+- Enlaces importantes en relación al TFG:
+  - [Moodle TFG](https://campusvirtual.udc.gal/course/view.php?id=18978).
   - [Taboloeiro FIC --> Grado en Ingeniería Informática](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
-  - [Calendario escolar]()https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1.
+  - [Calendario escolar](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
