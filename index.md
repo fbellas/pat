@@ -23,6 +23,6 @@
   
 ## Algunas dudas (y sus respuestas)
 
-### ¿Si me conceden las prácticas en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
+### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
 Sí, es decir, no hay problema por excederse de créditos.
