@@ -21,12 +21,12 @@
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
-  ## Algunas dudas... y sus respuestas...
+  ## Algunas dudas (y sus respuestas)
 
-  - *¿Si me conceden las prácticas en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?*
+  ### ¿Si me conceden las prácticas en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
   Sí, es decir, no hay problema por excederse de créditos.
 
-  - *Cuando salga la lista con los TFGs ofertados por empresas y/o profesorado (dos convocatorias por curso académico), ¿cuántas opciones como máximo puedo marcar?*
+  ### Cuando salga la lista con los TFGs ofertados por empresas y/o profesorado (dos convocatorias por curso académico), ¿cuántas opciones como máximo puedo marcar?
 
   La lista de TFGs ofertados por empresas y profesorado se publica en el moodle del TFG. En cada convocatoria, se especifica el número máximo de opciones que se pueden marcar (por orden de preferencia).
