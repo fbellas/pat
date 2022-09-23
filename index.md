@@ -20,7 +20,7 @@
   - [Web FIC: Calendario académico da FIC, curso 2022/23](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
-
+  
   ## Algunas dudas (y sus respuestas)
 
   ### ¿Si me conceden las prácticas en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
