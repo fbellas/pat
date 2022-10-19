@@ -26,3 +26,15 @@
 ### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
 Sí, es decir, no hay problema por excederse de créditos.
+
+### Recientemente una empresa me ha propuesto hacer prácticas con ellos. Quería preguntar si esas prácticas me podrían servir como prácticas curriculares y, si es el caso, qué procedimiento tengo que seguir para que lo pueda hacer.
+
+NO. Las prácticas curriculares las oferta la FIC y vosotros las solicitáis.
+
+Lo que me preguntas suena a prácticas “extracurriculares”. Esas NO valen como prácticas curriculares. Las prácticas “extracurriculares” se pueden hacer como continuación de las prácticas curriculares, y en ese caso, las gestiona la FIC. En el caso que me planteas, tendrías que contactar con algún organismo que las gestione (e.g. la FUAC). En todo caso, serían prácticas "extracurriculares" y NO cuentan como prácticas curriculares.
+
+Un par de enlaces muy interesantes en relación a este tema:
+
+- https://www.fic.udc.es/es/practicas-en-empresa: prácticas curriculares y prácticas extracurriculares.
+
+- https://fic.udc.es/gl/estudos-de-grao#:~:text=Instruci%C3%B3ns%20para%20superar%20a%20optatividade%20no%20Grao%20en%20Enxe%C3%B1ar%C3%ADa%20Inform%C3%A1tica: optatividad en el GEI. En este documento, cuando se habla de prácticas en empresa, se refiere a prácticas curriculares.
