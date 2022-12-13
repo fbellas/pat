@@ -23,7 +23,7 @@
 
 ## Reunión 13-12-2022  
 
-- [Resolución de 8 de junio de 2009, de la Secretaría General de Universidades, por la que se da publicidad al Acuerdo del Consejo de Universidades, por el que se establecen recomendaciones para la propuesta por las universidades de memorias de solicitud de títulos oficiales en los ámbitos de la Ingeniería Informática, Ingeniería Técnica Informática e Ingeniería Química](https://www.boe.es/boe/dias/2009/08/04/pdfs/BOE-A-2009-12977.pdf)
+- [Resolución de 8 de junio de 2009, de la Secretaría General de Universidades, por la que se da publicidad al Acuerdo del Consejo de Universidades, por el que se establecen recomendaciones para la propuesta por las universidades de memorias de solicitud de títulos oficiales en los ámbitos de la Ingeniería Informática, Ingeniería Técnica Informática e Ingeniería Química](https://www.boe.es/boe/dias/2009/08/04/pdfs/BOE-A-2009-12977.pdf).
   
 ## Algunas preguntas (y sus respuestas)
 
