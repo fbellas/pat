@@ -20,6 +20,10 @@
   - [Web FIC: Calendario académico da FIC, curso 2022/23](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
+
+## Reunión 13-12-2022  
+
+- [Resolución de 8 de junio de 2009, de la Secretaría General de Universidades, por la que se da publicidad al Acuerdo del Consejo de Universidades, por el que se establecen recomendaciones para la propuesta por las universidades de memorias de solicitud de títulos oficiales en los ámbitos de la Ingeniería Informática, Ingeniería Técnica Informática e Ingeniería Química](https://www.boe.es/boe/dias/2009/08/04/pdfs/BOE-A-2009-12977.pdf)
   
 ## Algunas preguntas (y sus respuestas)
 
