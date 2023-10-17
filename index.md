@@ -24,8 +24,8 @@
 ## Próxima reunión (diciembre)
 
 - Estudios de Máster.
-- [Reglamento de la matrícula condicionada en másteres universitarios oficiales de la UDC] (https://www.udc.es/export/sites/udc/futuros_estudantes/masteres/normativa/Reglamento-de-la-matricula-condicionada-en-masteres-universitarios-oficiales-de-la-UDC.pdf_2063069299.pdf).
-  - Permite a un/a estudiante matricularse de un máster ofertado por la UDC aunque le falten un máximo de 9 créditos de Grado por superar y el TFG.
+- [Reglamento de la matrícula condicionada en másteres universitarios oficiales de la UDC](https://www.udc.es/export/sites/udc/futuros_estudantes/masteres/normativa/Reglamento-de-la-matricula-condicionada-en-masteres-universitarios-oficiales-de-la-UDC.pdf_2063069299.pdf).
+  - Permite a un/a estudiante matricularse de un máster ofertado por la UDC aunque tenga pendiente superar el TFG y un máximo de 9 créditos.
   
 ## Algunas preguntas (y sus respuestas)
 
