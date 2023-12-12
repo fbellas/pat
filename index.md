@@ -21,13 +21,14 @@
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
-## Próxima reunión (diciembre)
+## Reunión 12-12-2023
 
 - Estudios de Máster.
+- Másteres impartidos en la FIC:
+  - [MUEI](https://fic.udc.es/gl/muei).
+  - [Otros másteres](https://fic.udc.es/gl/outros-mestrados).
 - [Reglamento de la matrícula condicionada en másteres universitarios oficiales de la UDC](https://www.udc.es/export/sites/udc/futuros_estudantes/masteres/normativa/Reglamento-de-la-matricula-condicionada-en-masteres-universitarios-oficiales-de-la-UDC.pdf_2063069299.pdf).
   - Permite a un/a estudiante matricularse de un máster ofertado por la UDC aunque tenga pendiente superar el TFG y un máximo de 9 créditos.
-  
-## Algunas preguntas (y sus respuestas)
 
 ### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
