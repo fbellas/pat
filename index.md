@@ -21,6 +21,7 @@
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
+## Algunas preguntas (y sus respuestas)
 
 ### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
