@@ -12,23 +12,15 @@
 
 - Puedes consultarla [aquí](pat-informacion-interes.pdf).
 
-## Reunión 26-9-2023
+## Reunión 17-9-2024
 
 - Trabajo Fin de Grado: introducción a la normativa.
-  - [Moodle TFG ES](https://campusvirtual.udc.gal/course/view.php?id=22426).
+  - [Moodle TFG ES](https://udconline.udc.gal/course/view.php?id=7213).
   - [Taboloeiro FIC: Grado en Enxeñería Informática](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
-  - [Web FIC: Calendario académico da FIC, curso 2023/24](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
+  - [Web FIC: Calendario académico da FIC, curso 2024/25](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%5Fadministracion%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
-## Reunión 12-12-2023
-
-- Estudios de Máster.
-- Másteres impartidos en la FIC:
-  - [MUEI](https://fic.udc.es/gl/muei).
-  - [Otros másteres](https://fic.udc.es/gl/outros-mestrados).
-- [Reglamento de la matrícula condicionada en másteres universitarios oficiales de la UDC](https://www.udc.es/export/sites/udc/futuros_estudantes/masteres/normativa/Reglamento-de-la-matricula-condicionada-en-masteres-universitarios-oficiales-de-la-UDC.pdf_2063069299.pdf).
-  - Permite a un/a estudiante matricularse de un máster ofertado por la UDC aunque tenga pendiente superar el TFG y un máximo de 9 créditos.
 
 ### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
   
