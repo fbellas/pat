@@ -8,9 +8,10 @@
 - Despacho 0.04.
 - [Tutorías](https://www.udc.es/gl/centros_departamentos_servizos/centros/titorias/?codigo=614).
 
-## Información de interés general
+## Información general
 
-- Puedes consultarla [aquí](pat-informacion-interes.pdf).
+- [Información de interés general](pat-informacion-interes.pdf).
+- [Listado de tutores PAT](listado-tutores-pat.pdf).
 
 ## Reunión 17-9-2024
 
