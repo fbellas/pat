@@ -39,3 +39,14 @@ Un par de enlaces muy interesantes en relación a este tema:
 - [Prácticas en empresa](https://www.fic.udc.es/es/practicas-en-empresa): prácticas curriculares y prácticas extracurriculares.
 
 - [Optatividad en el GEI](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fadministracion%2Facceso%5Fpublico%2Fgrado%2FInstruci%C3%B3ns%20para%20a%20superaci%C3%B3n%20da%20optatividade%20no%20Grao%20en%20Enxe%C3%B1ar%C3%ADa%20Inform%C3%A1tica%2EReco%C3%B1ecemento%20de%20actividades%20e%20Pr%C3%A1cticas%20en%20empresa%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fadministracion%2Facceso%5Fpublico%2Fgrado&p=true&ga=1): en este documento, cuando se habla de prácticas en empresa, se refiere a prácticas curriculares.
+
+### ¿Dónde puedo ver el listado de empresas disponibles para hacer las prácticas de empresa? ¿Cómo me puedo apuntar a ellas?
+
+Entiendo que te refieres a las prácticas *curriculares* (12 créditos).
+
+En el [calendario académico de la FIC](https://www.fic.udc.es/es/calendarios) se muestran los periodos de solicitud de las prácticas curriculares:
+
+- Las prácticas curriculares del segundo cuatrimestre del curso actual típicamente se solicitan en noviembre.
+- Las prácticas curriculares del primer cuatrimestre del próximo curso típicamente se solicitan en junio.
+
+La información sobre las prácticas curriculares se puede consultar en el [“Taboleiro” FIC del GEI](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
