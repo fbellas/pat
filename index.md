@@ -24,7 +24,7 @@
 
 ## Reunión 10-12-2024
 
-- Charla ["Guía para sobrevivir fóra da FIC"](https://www.meetup.com/gpul-labs/events/304985173/)
+- Charla ["Guía para sobrevivir fóra da FIC"](https://www.meetup.com/gpul-labs/events/304985173/).
 - Estudios de Máster.
 - Másteres impartidos en la FIC:
   - [MUEI](https://fic.udc.es/gl/muei).
