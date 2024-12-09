@@ -22,6 +22,14 @@
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
+## Reunión 10-12-2024
+
+- Charla ["Guía para sobrevivir fóra da FIC"](https://www.meetup.com/gpul-labs/events/304985173/)
+- Estudios de Máster.
+- Másteres impartidos en la FIC:
+  - [MUEI](https://fic.udc.es/gl/muei).
+  - [Otros másteres](https://fic.udc.es/gl/outros-mestrados).
+
 ## Algunas preguntas (y sus respuestas)
 
 ### ¿Si me conceden las prácticas curiculares en empresa, me puedo matricular de las mismas aunque ya haya convalidado 12 créditos por otras actividades o asignaturas?
