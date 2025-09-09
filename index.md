@@ -11,24 +11,17 @@
 ## Información general
 
 - [Información de interés general](pat-informacion-interes.pdf).
-- [Listado de tutores PAT](listado-tutores-pat.pdf).
+- [Listado de tutores PAT]().
 
-## Reunión 17-9-2024
+## Reunión 16-9-2025
 
 - Trabajo Fin de Grado: introducción a la normativa.
-  - [Moodle TFG ES](https://udconline.udc.gal/course/view.php?id=7213).
+  - [Moodle TFG ES]().
   - [Taboloeiro FIC: Grado en Enxeñería Informática](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
-  - [Web FIC: Calendario académico da FIC, curso 2024/25](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%5Fadministracion%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
+  - [Web FIC: Calendario académico da FIC, curso 2025/26](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%5Fadministracion%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
-## Reunión 10-12-2024
-
-- Charla ["Guía para sobrevivir fóra da FIC"](https://www.meetup.com/gpul-labs/events/304985173/).
-- Estudios de Máster.
-- Másteres impartidos en la FIC:
-  - [MUEI](https://fic.udc.es/gl/muei).
-  - [Otros másteres](https://fic.udc.es/gl/outros-mestrados).
 
 ## Algunas preguntas (y sus respuestas)
 
