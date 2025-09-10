@@ -11,7 +11,7 @@
 ## Información general
 
 - [Información de interés general](pat-informacion-interes.pdf).
-- [Listado de tutores PAT](listado-tutores-pat).
+- [Listado de tutores PAT](listado-tutores-pat.pdf).
 
 ## Reunión 16-9-2025
 
