@@ -22,6 +22,9 @@
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
+## Reunión 9-12-2025
+
+- Estudios de Máster.
 
 ## Algunas preguntas (y sus respuestas)
 
