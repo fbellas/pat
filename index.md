@@ -19,6 +19,10 @@
   - Moodle TFG ES.
   - [Taboloeiro FIC: Grado en Enxeñería Informática](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
   - [Web FIC: Calendario académico da FIC, curso 2026/27](https://udcgal.sharepoint.com/sites/repositoriofic/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico%2Fcalendario%5Facademico%5F2627%2Epdf&parent=%2Fsites%2Frepositoriofic%2FDocumentos%20compartidos%2Finformacion%2Fcalendarios%2Facceso%5Fpublico&p=true&ga=1).
+- Prácticas en empresa.
+  - Prácticas curriculares (12 créditos).
+  - Prácticas extracurriculares (0 créditos, Suplemento Europeo al Título).
+  - [Taboloeiro FIC: Grado en Enxeñería Informática](https://udcgal.sharepoint.com/sites/repositoriofic/SitePages/Grao-en-Enxe%C3%B1er%C3%ADa-Inform%C3%A1tica.aspx).
 - Trámites administrativos.
   - [Web FIC: Información administrativa - Estudos de Grao](https://fic.udc.es/gl/estudos-de-grao).
 
